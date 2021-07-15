@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  width: 70%;
+  margin: auto;
+}
+.App *{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  margin: 10px auto;
+}
+#btnSubmit {
+  background-color: green;
+  color: white;
+}
+#btnReset {
+  background-color: red;
+  color: white;
+}
+
